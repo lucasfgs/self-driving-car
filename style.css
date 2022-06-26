@@ -10,3 +10,7 @@ body{
 #app{
     background: lightgray;
 }
+
+#network {
+    background: black;
+}
